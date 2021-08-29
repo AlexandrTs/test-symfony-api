@@ -1,0 +1,4 @@
+divide:
+    path: /math/divide
+    controller: App\Controller\MathController::divideAction
+    methods: ['GET']
